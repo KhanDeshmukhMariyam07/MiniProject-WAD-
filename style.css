@@ -1,0 +1,26 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 2;
+    padding: 3;
+    background-color:rgb(30, 52, 112);
+}
+
+header {
+    background-color: cornflowerblue;
+    color:#fff;
+    padding:1em;
+    text-align: center;
+   
+    padding: 2px;
+    background-size: cover;
+    background-position: center;
+}
+
+
+footer {
+    background-color:#110f20;
+    color: #fff;
+    padding: 1;
+    text-align: center;
+    width: 100;
+}
